@@ -56,10 +56,12 @@ You can adjust the sensitivity by modifying:
 EAR_THRESHOLD = 0.18
 MAR_THRESHOLD = 0.65
 ```
-# 📁 drowsiness-detector
+📁 drowsiness-detector
 ├── main.py
 ├── preview.gif
 └── README.md
+
+
 # 👨‍💻 Author
 Made with ❤️ by [Mejri Neder]
 Feel free to contribute or suggest improvements!
