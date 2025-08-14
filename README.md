@@ -1,6 +1,6 @@
 # 💤 Drowsiness & Yawn Detection System
 
-![Preview](preview.gif)
+![Preview](test.gif)
 
 This project is a real-time drowsiness and yawn detection system using **OpenCV**, **CVZone**, and **Tkinter GUI**. It uses **facial landmark detection** to monitor eye and mouth aspect ratios to detect signs of fatigue or yawning.
 
